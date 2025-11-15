@@ -12,23 +12,6 @@ An intelligent Flask web application that uses AI to help you discover the perfe
 - **Bookmarking**: Save your favorite episodes for quick access later
 - **AI Reasoning Display**: See why episodes were selected with AI-generated explanations
 
-## 📸 Screenshots
-
-### Homepage
-The clean, minimal homepage with API status indicators and animated placeholder examples.
-
-![Homepage](screenshots/01-homepage.png)
-
-### Search Results
-Example search results showing AI-selected relevant episodes with sorting, bookmarking, and expandable descriptions.
-
-![Search Results](screenshots/02-quantum-physics-results.png)
-
-### Bookmarks
-Bookmarked episodes are saved locally and displayed on the homepage for quick access.
-
-![Bookmarks](screenshots/08-homepage-with-bookmarks.png)
-
 ## 🏗️ Architecture
 
 The application uses a three-stage AI workflow:
